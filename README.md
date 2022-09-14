@@ -26,7 +26,12 @@ Ellipse fitting
 CLASSIFICATION:
 This module of the project classifies the the given fundus images as either glaucoma or normal eye by inferencing the fundus images after performing all the above techniques on the fundus images.
 
+HOW TO RUN THIS CODE?
+Below are the procedure for using this script:
 
+Run this: python inference_script.py in command prompt. Make sure you are in 'Code' directory.
+Choose your retinal image.
+After a few seconds, the detection result should appear in command prompt and json file.
 
 
 
